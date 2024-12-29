@@ -21,7 +21,7 @@ How to Use 🌐
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/december-in-vijayawada.git
+   git clone https://github.com/JyothiPriya5/CSS-Art.git
 2.🎥❄️ Open index.html in a web browser to explore the winter wonderland of Vijayawada. 
 
 ✍️Customize or modify the content in the HTML and CSS files to personalize the website. 
